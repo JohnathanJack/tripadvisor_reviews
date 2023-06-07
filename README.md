@@ -5,9 +5,12 @@ The goal of this project is to analyze the semantics of tripadvisor reviews to d
 
 # Process
 1. Perform EDA on the dataset
+
     -Create visualizations of the words in a wordcloud
+
     -Create graphs depicting the frequency of words overall and within each rating category
 
 2. Experiment with several models to determine which one had the best results
+
     -Naive bayes, random forest, neural networks(utilizing transfer learning)
 
