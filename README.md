@@ -40,5 +40,7 @@ Below are the confusion matrix for each of the models
 ![Naive Bayes Confusion matrix](./data/images/multinomial.png)
 ![Neural Network Confusion Matrix](./data/images/neural_network.png)
 
+# Conclusion
 
+A lot of information and insight can be found within the EDA portion of this project. The models were interesting as the neural network on the test cases performed better but the logistic regression model performed better on the validation set. Further data can help enhance each model performance especially by diminishing the bias within the data as there were a lot more positive sentiment reviews. 
 
